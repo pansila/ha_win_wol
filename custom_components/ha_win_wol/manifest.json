@@ -12,6 +12,7 @@
     "release_notes": "https://github.com/j1617/ha_win_wol/releases",
     "hacs": {
         "version": "1.1.2"
-    }
+    },
+    "image": "https://kkgithub.com/j1617/ha_win_wol/blob/master/icons/ha_win_wol.png"
 }
   
